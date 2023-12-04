@@ -1,2 +1,3 @@
-# industrializing-ml-models
-Code accompanying the "Industrializing ML Models" course 
+# Titanic
+
+A demo project to illustrate converting notebooks to containers.
